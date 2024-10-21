@@ -1,0 +1,9 @@
+benchmark
+gym
+gymnasium
+langchain
+loguru
+numpy
+PyYAML
+stable_baselines3==2.1.0
+torch
